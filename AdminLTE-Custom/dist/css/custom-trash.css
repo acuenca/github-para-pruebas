@@ -1,0 +1,629 @@
+
+/* ----- Header ----- */
+
+/*.main-header .navbar .nav>li>a .fa {
+	font-size: 130% !important;
+}*/
+
+/*.main-sidebar {
+	background-color: #dddddd !important;
+}*/
+
+/*.skin-black .main-header>.logo {
+    background-color: #ff6f28;
+    color: #fff;
+	border-right: 1px solid #ff6f28 !important;
+}*/
+
+/*.skin-black .main-header>.logo:hover {
+    background-color: #fc6115;
+    color: #fff;
+}*/
+
+/*.skin-black .main-header .navbar>.sidebar-toggle {
+    color: #333;
+    border-right: 0 solid transparent !important;
+}*/
+
+/*.content-wrapper, .right-side {
+    background-color: #fff;
+}*/
+
+/*.skin-black .content-header {
+	border-bottom: 1px solid #f6f6f6 !important;
+	padding: 25px 30px 12px 30px !important;
+}*/
+
+/*.content-header h1 {
+    margin: 0;
+    font-size: 26px;
+}*/
+
+/*.content-header h1 small {
+	font-size: 15px;
+    display: inline-block;
+    padding-left: 4px;
+    font-weight: 300;
+}*/
+
+/*.content-header span {
+	margin-bottom: 20px !important;
+}*/
+
+/* ----- User ----- */
+
+/*.skin-black .main-header li.user-header {
+	padding-top: 20px !important;
+  background-color: #fc6115;
+}*/
+
+/*.navbar-custom-menu>.navbar-nav>li>.dropdown-menu {
+	width: 200px;
+}*/
+
+/*.navbar-nav>.user-menu>.dropdown-menu>.user-body a {
+	color: #fc6115 !important;
+}*/
+
+/* ----- General ----- */
+
+
+/*.abl-btnFinish {
+    padding-top: 10px;
+}*/
+
+/*.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 0px !important;
+    margin-bottom: 5px !important;
+}*/
+
+/*.btn-danger {
+    background-color: #ff6f28;
+    border-color: #ff6f28;
+}
+
+.btn-danger:hover {
+    background-color: #fc6115;
+    border-color: #fc6115;
+}
+
+.btn-danger:focus {
+    background-color: #ff6f28;
+    border-color: #ff6f28;
+	margin: auto 4px;
+}
+
+.btn-default {
+    background-color: #fff;
+    color: #444;
+    border-color: #ddd;
+	margin: auto 4px;
+}
+
+.btn-default:hover {
+    background-color: #f6f6f6;
+    color: #444;
+    border-color: #ddd;
+	margin: auto 4px;
+}
+
+.btn-default:focus {
+    background-color: #fff;
+    color: #444;
+    border-color: #ddd;
+	margin: auto 4px;
+}*/
+
+/* ----- CONTENT ----- */
+
+/*.content {
+	padding: 30px;
+}*/
+
+/* ----- Avatar ----- */
+
+
+/*.modal .modal-lg .abl-attendant {
+	margin: -20px -5px 20px -5px !important;
+	background-color: #f6f6f6;
+	padding: 13px 15px 1px 15px;
+	height: 105px;
+}*/
+
+
+
+/*.wysihtml5-toolbar {
+    margin-top: 0px !important;
+    margin-left: -5px !important;
+}*/
+
+/*.content .abl-attendant {
+	margin: -30px !important;
+	background-color: #f6f6f6;
+	padding: 13px 15px 1px 15px;
+}
+
+.abl-attendant img {
+	width: 60px;
+	margin: 0 15px 0 15px;
+	border: 3px solid #999;
+	padding: 3px;
+}
+
+.abl-attendant td button {
+	height: 77px;
+	margin-top: 0 !important;
+}
+
+.abl-attendantContent {
+	margin-left: 36%;
+	width: 300px;
+}*/
+
+/*.abl-avatar {
+	float: left;
+	text-align: center;
+}*/
+
+
+
+/*<--------NO SE USAN*/
+/*.abl-addAttendant {
+	color: #ccc;
+	background: transparent;
+	margin: 30px;
+	padding: 15px;
+	width: 55px;
+	height: 55px;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+}
+
+.abl-addAttendant:hover {
+	color: #666;
+	background: transparent;
+	margin: 30px;
+	padding: 15px;
+	width: 55px;
+	height: 55px;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+}
+
+.modal .modal-lg .comments{
+	margin: 20px 0 !important;
+	background-color: #fff;
+	padding: 13px 15px 1px 15px;
+	height: 105px;
+}*/
+/*NO SE USAN-------->*/
+
+/*.abl-avatar .abl-check {
+	position: absolute;
+	margin-top: -55px;
+	margin-left: 15px;
+	background: #fc6115;
+	padding: 4px;
+	color: #fff;
+	font-size: 70%;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+}*/
+
+/* ----- Tabs ----- */
+
+/*.abl-tabs {
+	margin-top: 30px;
+}
+
+.abl-tabs button {
+	border: transparent;
+	background: transparent;
+	color: #666666;
+}
+
+.abl-tabs button:hover {
+	border: transparent;
+	background: transparent;
+	color: #666666;
+}
+
+.abl-tabs button:focus {
+	border: transparent;
+	background: transparent;
+	box-shadow: none;
+	color: #666666;
+}
+
+.abl-tabs .btn-success.active, .btn-success:active, .open>.dropdown-toggle.btn-success {
+	border: transparent !important;
+	background: transparent !important;
+	box-shadow: none !important;
+	color: #666666 !important;
+}
+
+.abl-tabs .nav-stacked .dropdown-menu li {
+	margin-bottom: 0 !important;
+	border: transparent !important;
+}
+
+.abl-tabs .nav-stacked .dropdown-menu {
+	background: #f6f6f6;
+	-webkit-box-shadow: 0px 3px 5px 0px rgba(166,166,166,1);
+	-moz-box-shadow: 0px 3px 5px 0px rgba(166,166,166,1);
+	box-shadow: 0px 3px 5px 0px rgba(166,166,166,1);
+}
+
+.abl-tabs .wysihtml5-toolbar {
+	margin-top: 30px !important;
+	margin-left: -5px !important;
+}*/
+
+
+/*.abl-tabs .nav-stacked li {
+	padding: 10px 10px 5px 10px;
+	border: 1px solid #dddddd !important;
+	margin-bottom: 10px;
+}
+
+.abl-tabs .nav-stacked li h4 {
+	font-weight: bold;
+}*/
+
+/*.box {
+    border-top: transparent !important;
+    box-shadow: none !important;
+	margin-bottom: -10px;
+}*/
+
+/*.box-footer {
+    border: transparent !important;
+}*/
+
+/*.box-header.with-border {
+    border: transparent !important;
+}*/
+
+/*.abl-attachment {
+	margin-left: -1px;
+}*/
+
+/*.abl-attachment:hover {
+	margin-left: -1px;
+}*/
+
+/*ul.wysihtml5-toolbar>li {
+    margin: 0 -1px 10px 0;
+}*/
+
+
+/*.modal-header, .modal-body, .modal-footer {
+	padding: 20px 20px !important;
+}*/
+
+/*.modal-body table {
+	margin-top: 30px;
+}*/
+
+/*.box-body {
+    padding: 0 !important;
+}*/
+
+/*#accordion .box-header {
+	padding: 10px 0 !important;
+}*/
+
+/*.box-title {
+    font-size: 16px !important;
+}*/
+
+/* ----- Table Task ----- */
+
+/*.abl-description {
+	max-width: 350px;
+}*/
+
+/*.abl-attendant td {
+	vertical-align: middle !important;
+}*/
+
+/*.abl-taskTab span {
+	margin-left: 7px;
+}*/
+
+/*.abl-taskTab .pagination span {
+	margin-left: 0;
+}*/
+
+/*.abl-taskTab .btn.active, .btn:active {
+	border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}*/
+
+/*.abl-taskTab .btn {
+	border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}*/
+
+/*.abl-taskTab .btn .badge {
+	background: #fc6115;
+}*/
+
+/*.abl-taskTab table button {
+	color: transparent;
+	font-weight: bold;
+}*/
+
+/*.abl-taskTab tr button {
+	font-size: 18px;
+	padding: 10px;
+	font-weight: bold;
+	color: #d2d6de;
+}*/
+
+/*.abl-taskTab tr:hover button {
+	font-size: 18px;
+	padding: 10px;
+	font-weight: bold;
+	color: #fc6115;
+}*/
+
+/*.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover {
+    background-color: #fc6115;
+    border-color: #fc6115;
+}*/
+
+/*.abl-addAttachment {
+	border: 1px solid #ccc;
+	height: 90px;
+	margin: 9px;
+}*/
+
+/* ----- Agenda ----- */
+
+/*.profile-user-img {
+    margin: 0 auto 10px auto;
+    width: 100px;
+    padding: 3px;
+    border: 3px solid #d2d6de;
+}
+
+.box-profile {
+	background: #f6f6f6;
+	padding: 20px !important;
+}
+
+.box-profile li{
+	background: transparent;
+}
+
+.box-profile p {
+    margin: 0;
+}*/
+
+/*.list-group-item:first-child, .list-group-item:last-child {
+    border: transparent !important;
+}*/
+
+/* ----- Attachments ----- */
+
+/*.mailbox-attachment-icon {
+	margin-top: -15px;
+    text-align: center;
+    font-size: 65px;
+    color: #666;
+    padding: 0 5px !important;
+}*/
+
+/*.mailbox-attachments li {
+    float: left;
+    width: 130px;
+    border: 1px solid #eee;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}*/
+
+/*.mailbox-attachment-icon .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 38px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}*/
+
+/*.mailbox-attachments .btn {
+	margin-right: -3px !important;
+}*/
+
+/* ----- Post ----- */
+
+/*.post a {
+	color: #000;
+}*/
+
+/*
+.abl-round {
+	position: fixed;
+	z-index: 99;
+	color: #FFF !important;
+	border: 0;
+	right: 30px;
+	top: 350px;
+	float: right !important;
+	font-size: 30px;
+	line-height: 0;
+	padding: 25px 18px !important;
+	background: #fc6115 !important;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+}
+*/
+
+/*#buttonFix {
+	position: relative;
+	float: right;
+	margin-top: 20px;
+	right: 10px !important;
+	z-index: 99;
+}
+
+#buttonFix.fixed {
+  	position: fixed;
+	top: 50px;
+ 	z-index: 99;
+ 	right: 25px !important;
+}*/
+
+/*.abl-round {
+	color: #FFF !important;
+	border: 0;
+	font-size: 30px;
+	line-height: 0;
+	padding: 25px 18px !important;
+	background: #fc6115 !important;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+	z-index: 99;
+}*/
+
+/*.abl-tabs .abl-round button:focus {
+	background: #fc6115 !important;
+	box-shadow: none !important;
+	color: #fff !important;
+}*/
+
+/* ----- Checkbox ----- */
+
+/*.myCheckbox input {
+    display: none;
+    position: relative;
+    z-index: -9999;
+}
+
+.myCheckbox span {
+	margin-top: 12px !important;
+    width: 30px;
+    height: 30px;
+    display: block;
+    background: url("../img/checkbox-none.gif");
+}
+
+.myCheckbox input:checked + span {
+    background: url("../img/checkbox-check.gif");
+}
+
+.myCheckbox input:indeterminate + span {
+    background: url("../img/checkbox-indeterminate.gif");
+}*/
+
+/* =========== General =========== */
+
+/*.no-background{background: transparent !important;}
+
+.no-paddin{padding: 0 !important;}
+.no-paddintop{padding-top: 0 !important;}
+.no-paddinbotton{padding-bottom: 0 !important;}
+.no-paddinleft{padding-left: 0 !important;}
+.no-paddinright{padding-right: 0 !important;}
+
+.no-margin{margin: 0 !important;}
+.no-margintop{margin-top: 0 !important;}
+.no-marginbotton{margin-bottom: 0 !important;}
+.no-marginleft{margin-left: 0 !important;}
+.no-marginright{margin-right: 0 !important;}*/
+
+/*.marginleftplus-5{margin-left:5px !important;}
+.marginleftplus-10{margin-left:10px !important;}*/
+
+/*Si se usa*/
+/*.marginleftplus-30{margin-left:30px !important;}*/
+
+/*.marginrightplus-5{margin-right:5px !important;}
+.marginrightplus-10{margin-right:10px !important;}
+.marginrightplus-15{margin-right:15px !important;}
+.marginrightplus-20{margin-right:20px !important;}*/
+
+/*.marginleftminus-5{margin-left:-5px !important;}
+.marginleftminus-10{margin-left:-10px !important;}
+.marginleftminus-20{margin-left:-20px !important;}*/
+/*.marginrightminus-5{margin-right:-5px !important;}
+.marginrightminus-10{margin-right:-10px !important;}*/
+
+/*.margintopplus-5{margin-top:5px !important;}*/
+
+/*Si se usa*/
+/*.margintopplus-10{margin-top:10px !important;}*/
+
+/*.margintopplus-20{margin-top:20px !important;}
+.margintopplus-25{margin-top:25px !important;}*/
+
+/*Si se usa*/
+/*.margintopplus-30{margin-top:30px !important;}
+.margintopplus-40{margin-top:40px !important;}*/
+
+/*
+.margintopplus-50{margin-top:50px !important;}
+.margintopplus-60{margin-top:60px !important;}
+.margintopplus-70{margin-top:70px !important;}
+.margintopplus-80{margin-top:80px !important;}
+.margintopplus-90{margin-top:90px !important;}
+.margintopplus-100{margin-top:100px !important;}*/
+
+/*.margintopminus-5{margin-top:-5px !important;}
+.margintopminus-10{margin-top:-10px !important;}*/
+
+/*Si se usa*/
+/*.margintopminus-20{margin-top:-20px !important;}*/
+
+/*.margintopminus-30{margin-top:-30px !important;}*/
+
+/*Si se usa*/
+/*.margintopminus-40{margin-top:-40px !important;}*/
+
+/*.margintopminus-45{margin-top:-45px !important;}
+.margintopminus-50{margin-top:-50px !important;}
+.margintopminus-60{margin-top:-60px !important;}
+.margintopminus-70{margin-top:-70px !important;}
+.margintopminus-80{margin-top:-80px !important;}
+.margintopminus-90{margin-top:-90px !important;}
+.margintopminus-100{margin-top:-100px !important;}*/
+
+/*Si se usa*/
+/*.marginbotplus-10{margin-bottom:10px !important;}*/
+
+/*.marginbotplus-20{margin-bottom:20px !important;}*/
+
+/*Si se usa*/
+/*.marginbotplus-30{margin-bottom:30px !important;}*/
+
+/*.marginbotplus-40{margin-bottom:40px !important;}*/
+/*.marginbotplus-50{margin-bottom:50px !important;}
+.marginbotplus-60{margin-bottom:60px !important;}
+.marginbotplus-70{margin-bottom:70px !important;}
+.marginbotplus-80{margin-bottom:80px !important;}
+.marginbotplus-90{margin-bottom:90px !important;}
+.marginbotplus-100{margin-bottom:100px !important;}*/
+
+/*.marginbotminus-10{margin-bottom:-10px !important;}
+.marginbotminus-20{margin-bottom:-20px !important;}
+.marginbotminus-30{margin-bottom:-30px !important;}
+.marginbotminus-40{margin-bottom:-40px !important;}
+.marginbotminus-50{margin-bottom:-50px !important;}
+.marginbotminus-60{margin-bottom:-60px !important;}
+.marginbotminus-70{margin-bottom:-70px !important;}
+.marginbotminus-80{margin-bottom:-80px !important;}
+.marginbotminus-90{margin-bottom:-90px !important;}
+.marginbotminus-100{margin-bottom:-100px !important;}*/
